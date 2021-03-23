@@ -1,2 +1,2 @@
 # rest
-Notes on representational state transfer (REST) architectures, applied to cloud web services.
+Collection of notes on representational state transfer (REST) architectures, mainly in the context of cloud web services.
